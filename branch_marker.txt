@@ -1,0 +1,3 @@
+branch: infra/k8s-cluster-upgrade-1.30
+author: lin-chen
+seeded: 2026-05-03T12:00:00Z
